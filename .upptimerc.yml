@@ -6,10 +6,10 @@ repo: emmalife-upptime # Your GitHub repository name
 sites:
   - name: www.emmlife.ch
     url: https://www.emmlife.ch
-    icon: https://www.emmalife.ch/favicon-32x32.png
+    icon: https://www.emmalife.ch/favicon.ico
   - name: emmlife.ch
     url: https://emmalife.ch
-    icon: https://emmalife.ch/favicon-32x32.png
+    icon: https://emmalife.ch/favicon.ico
 
 assignees: # Users to assign downtime issues (optional)
   - worzst
