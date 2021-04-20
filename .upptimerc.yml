@@ -6,8 +6,10 @@ repo: emmalife-upptime # Your GitHub repository name
 sites:
   - name: www.emmlife.ch
     url: https://www.emmlife.ch
+    icon: https://www.emmalife.ch/favicon-32x32.png
   - name: emmlife.ch
     url: https://emmalife.ch
+    icon: https://emmalife.ch/favicon-32x32.png
 
 assignees: # Users to assign downtime issues (optional)
   - worzst
@@ -17,7 +19,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /emmalife-upptime
-  logoUrl: https://emmalife.ch/favicon-32x32.png
+  logoUrl: https://emmalife.ch/logo.svg
   name: EmmaLife Status
   introTitle: '**EmmaLife** uptime monitor and status page.'
   introMessage: 'Status'
