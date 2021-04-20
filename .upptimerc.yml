@@ -20,12 +20,15 @@ sites:
 #  - name: TCP ping
 #   url: 1.1.1.1
 
+assignees: # Users to assign downtime issues (optional)
+  - worzst
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /emmalife-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://emmalife.ch/favicon-32x32.png
   name: EmmaLife Status
   introTitle: "**EmmaLife** uptime monitor and status page."
   introMessage: "Status"
