@@ -1,9 +1,9 @@
 [
   {
-    "name": "https://www.emmlife.ch",
+    "name": "www.emmlife.ch",
     "url": "https://www.emmlife.ch",
     "icon": "https://favicons.githubusercontent.com/www.emmlife.ch",
-    "slug": "https-www-emmlife-ch",
+    "slug": "www-emmlife-ch",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "https://emmlife.ch",
+    "name": "emmlife.ch",
     "url": "https://emmalife.ch",
     "icon": "https://favicons.githubusercontent.com/emmalife.ch",
-    "slug": "https-emmlife-ch",
+    "slug": "emmlife-ch",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 761,
-    "timeWeek": 761,
-    "timeMonth": 761,
-    "timeYear": 761,
+    "time": 746,
+    "timeDay": 746,
+    "timeWeek": 746,
+    "timeMonth": 746,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   }
 ]
