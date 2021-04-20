@@ -4,10 +4,10 @@ repo: emmalife-upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: www.emmlife.ch
-    url: https://www.emmlife.ch
+  - name: www.emmalife.ch
+    url: https://www.emmalife.ch
     icon: https://www.emmalife.ch/favicon.ico
-  - name: emmlife.ch
+  - name: emmalife.ch
     url: https://emmalife.ch
     icon: https://emmalife.ch/favicon.ico
 
