@@ -6,10 +6,35 @@ repo: emmalife-upptime # Your GitHub repository name
 sites:
   - name: www.emmalife.ch
     url: https://www.emmalife.ch
-    icon: https://www.emmalife.ch/favicon.ico
+    assignees:
+      - christopheschwyzer
   - name: emmalife.ch
     url: https://emmalife.ch
-    icon: https://emmalife.ch/favicon.ico
+    assignees:
+      - christopheschwyzer
+  - name: Life API
+    method: POST
+    url: https://dev.api.life.creadi.ch
+    assignees:
+      - MarijaStojanovic
+  - name: Life API - Short link
+    url: https://dev.api.life.creadi.ch/sl
+    method: POST
+    headers:
+      - 'Content-Type: application/json'
+    body: '{"url": "https://foo.bar"}'
+    assignees:
+      - MarijaStojanovic
+  - name: Validation API
+    method: POST
+    url: https://dev.api.life.creadi.ch/services/validators
+    assignees:
+      - MarijaStojanovic
+  - name: Comparison API
+    method: POST
+    url: https://life-comparison.vercel.app
+    assignees:
+      - MarijaStojanovic
 
 assignees: # Users to assign downtime issues (optional)
   - worzst
@@ -20,9 +45,10 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /emmalife-upptime
   logoUrl: https://emmalife.ch/logo.svg
+  favicon: https://emmalife.ch/favicon-32x32.png
   name: EmmaLife Status
   introTitle: '**EmmaLife** uptime monitor and status page.'
-  introMessage: 'Status'
+  introMessage: ''
   navbar:
     - title: Status
       href: /
