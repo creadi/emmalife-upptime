@@ -6,35 +6,28 @@ repo: emmalife-upptime # Your GitHub repository name
 sites:
   - name: www.emmalife.ch
     url: https://www.emmalife.ch
-    assignees:
-      - christopheschwyzer
+
   - name: emmalife.ch
     url: https://emmalife.ch
-    assignees:
-      - christopheschwyzer
+
   - name: Life API
     method: POST
     url: https://dev.api.life.creadi.ch
-    assignees:
-      - MarijaStojanovic
+
   - name: Life API - Short link
     url: https://dev.api.life.creadi.ch/sl
     method: POST
     headers:
       - 'Content-Type: application/json'
     body: '{"url": "https://foo.bar"}'
-    assignees:
-      - MarijaStojanovic
+
   - name: Validation API
     method: POST
     url: https://dev.api.life.creadi.ch/services/validators
-    assignees:
-      - MarijaStojanovic
+
   - name: Comparison API
     method: POST
     url: https://life-comparison.vercel.app
-    assignees:
-      - MarijaStojanovic
 
 assignees: # Users to assign downtime issues (optional)
   - worzst
