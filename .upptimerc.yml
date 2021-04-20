@@ -4,10 +4,10 @@ repo: emmalife-upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: EmmaLife (www)
-    url: https://www.emmlife.com
-  - name: EmmaLife
-    url: https://emmlife.org
+  - name: https://www.emmlife.ch
+    url: https://www.emmlife.ch
+  - name: https://emmlife.ch
+    url: https://emmalife.ch
 
 assignees: # Users to assign downtime issues (optional)
   - worzst
