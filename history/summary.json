@@ -1,9 +1,9 @@
 [
   {
-    "name": "EmmaLife (www)",
-    "url": "https://www.emmlife.com",
-    "icon": "https://favicons.githubusercontent.com/www.emmlife.com",
-    "slug": "emma-life-www",
+    "name": "https://www.emmlife.ch",
+    "url": "https://www.emmlife.ch",
+    "icon": "https://favicons.githubusercontent.com/www.emmlife.ch",
+    "slug": "https-www-emmlife-ch",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "EmmaLife",
-    "url": "https://emmlife.org",
-    "icon": "https://favicons.githubusercontent.com/emmlife.org",
-    "slug": "emma-life",
+    "name": "https://emmlife.ch",
+    "url": "https://emmalife.ch",
+    "icon": "https://favicons.githubusercontent.com/emmalife.ch",
+    "slug": "https-emmlife-ch",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1930,
-    "timeDay": 1930,
-    "timeWeek": 1930,
-    "timeMonth": 1930,
-    "timeYear": 1930,
+    "time": 761,
+    "timeDay": 761,
+    "timeWeek": 761,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {}
   }
 ]
