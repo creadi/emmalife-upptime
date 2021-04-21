@@ -53,3 +53,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+user-agent: christopheschwyzer
+
+i18n:
+  footer: [EmmaLife](https://emmalife.ch) is a platform by [Creadi AG](https://creadi.ch), the insurtech startup of Pax. We sell life insurance online. As an EmmaLife customer, you benefit from transparent products, fair prices and flexible contracts without paperwork.
