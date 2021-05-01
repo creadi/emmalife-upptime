@@ -1,7 +1,7 @@
 url: https://api.life.creadi.ch/services/validators/email?email=foo@bar.ch
 status: up
 code: 200
-responseTime: 12075
-lastUpdated: 2021-04-30T23:04:56.375Z
+responseTime: 10242
+lastUpdated: 2021-05-01T23:05:17.820Z
 startTime: Tue Apr 20 2021 10:45:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
