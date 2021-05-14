@@ -7,10 +7,12 @@ sites:
   - name: www.emmalife.ch
     url: https://www.emmalife.ch
     icon: https://www.emmalife.ch/favicon.ico
+    maxResponseTime: 5000
 
   - name: emmalife.ch
     url: https://emmalife.ch
     icon: https://www.emmalife.ch/favicon.ico
+    maxResponseTime: 5000
 
   - name: Life API - Quotes
     url: https://api.life.creadi.ch/life/quotes
@@ -19,6 +21,7 @@ sites:
     headers:
       - 'Content-Type: application/json'
     body: '{"dateOfBirth": "2000-04-21","gender": "F","insuredSum": 100000,"smoker": true,"startDate": "2021-04-21"}'
+    maxResponseTime: 5000
 
   - name: Life API - Short link
     url: https://api.life.creadi.ch/sl
@@ -27,14 +30,17 @@ sites:
     headers:
       - 'Content-Type: application/json'
     body: '{"url": "https://foo.bar"}'
+    maxResponseTime: 5000
 
   - name: Validation API
     icon: https://www.emmalife.ch/favicon.ico
     url: https://api.life.creadi.ch/services/validators/email?email=foo@bar.ch
     method: GET
+    maxResponseTime: 5000
 
 assignees: # Users to assign downtime issues (optional)
   - worzst
+  - stophecom
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -58,7 +64,7 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
-user-agent: christopheschwyzer
+user-agent: stophecom
 
 i18n:
   footer: EmmaLife is a platform by [Creadi AG](https://creadi.ch).
