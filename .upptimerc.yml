@@ -19,7 +19,7 @@ sites:
     icon: https://www.emmalife.ch/favicon.ico
     method: POST
     headers:
-      - 'Content-Type: application/json'
+      - "Content-Type: application/json"
     body: '{"dateOfBirth": "2000-04-21","gender": "F","insuredSum": 100000,"smoker": true,"startDate": "2021-04-21"}'
     maxResponseTime: 5000
 
@@ -28,14 +28,8 @@ sites:
     icon: https://www.emmalife.ch/favicon.ico
     method: POST
     headers:
-      - 'Content-Type: application/json'
+      - "Content-Type: application/json"
     body: '{"url": "https://foo.bar"}'
-    maxResponseTime: 5000
-
-  - name: Validation API
-    icon: https://www.emmalife.ch/favicon.ico
-    url: https://api.life.creadi.ch/services/validators/email?email=foo@bar.ch
-    method: GET
     maxResponseTime: 5000
 
 assignees: # Users to assign downtime issues (optional)
@@ -50,8 +44,8 @@ status-website:
   logoUrl: https://emmalife.ch/logo.svg
   favicon: https://emmalife.ch/favicon-32x32.png
   name: EmmaLife Status
-  introTitle: '**EmmaLife** uptime monitor and status page.'
-  introMessage: ''
+  introTitle: "**EmmaLife** uptime monitor and status page."
+  introMessage: ""
   navbar:
     - title: Status
       href: /
