@@ -22,7 +22,7 @@
     "url": "https://emmalife.ch",
     "icon": "https://www.emmalife.ch/favicon.ico",
     "slug": "emmalife-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 416,
     "timeDay": 358,
     "timeWeek": 224,
-    "timeMonth": 261,
+    "timeMonth": 267,
     "timeYear": 416,
     "dailyMinutesDown": {}
   },
