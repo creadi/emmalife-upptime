@@ -1,7 +1,7 @@
 url: https://api.life.creadi.ch/life/quotes
-status: down
+status: degraded
 code: 400
-responseTime: 586
-lastUpdated: 2022-11-10T04:59:58.594Z
+responseTime: 9390
+lastUpdated: 2022-11-10T05:15:06.832Z
 startTime: Wed Apr 21 2021 07:37:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
