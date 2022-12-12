@@ -76,17 +76,17 @@
     "url": "https://dev.vlot.api.emmalife.ch",
     "icon": "https://www.emmalife.ch/favicon.ico",
     "slug": "vlot-heroku-proxy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 639,
-    "timeWeek": 639,
-    "timeMonth": 639,
-    "timeYear": 639,
+    "time": 595,
+    "timeDay": 595,
+    "timeWeek": 595,
+    "timeMonth": 595,
+    "timeYear": 595,
     "dailyMinutesDown": {}
   }
 ]
