@@ -32,12 +32,6 @@ sites:
     body: '{"url": "https://foo.bar"}'
     maxResponseTime: 5000
 
-  - name: Validation API
-    icon: https://www.emmalife.ch/favicon.ico
-    url: https://api.life.creadi.ch/services/validators/email?email=foo@bar.ch
-    method: GET
-    maxResponseTime: 5000
-
   - name: Vlot <>  Heroku proxy
     icon: https://www.emmalife.ch/favicon.ico
     url: https://dev.vlot.api.emmalife.ch
