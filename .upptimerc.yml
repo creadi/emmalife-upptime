@@ -32,9 +32,16 @@ sites:
     body: '{"url": "https://foo.bar"}'
     maxResponseTime: 5000
 
-  - name: Vlot <>  Heroku proxy
-    icon: https://www.emmalife.ch/favicon.ico
+  - name: Vlot <> Heroku Proxy (Dev)
+    icon: https://flow.swiss/favicon.ico
     url: https://dev.vlot.api.emmalife.ch
+    method: POST
+    expectedStatusCodes:
+      - 401
+
+  - name: Vlot <> Heroku Proxy (Prod)
+    icon: https://flow.swiss/favicon.ico
+    url: https://vlot.api.emmalife.ch
     method: POST
     expectedStatusCodes:
       - 401
