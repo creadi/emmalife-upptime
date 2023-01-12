@@ -49,7 +49,7 @@
     "time": 537,
     "timeDay": 528,
     "timeWeek": 477,
-    "timeMonth": 537,
+    "timeMonth": 541,
     "timeYear": 537,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 130,
     "timeDay": 124,
     "timeWeek": 120,
-    "timeMonth": 130,
+    "timeMonth": 131,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -76,17 +76,17 @@
     "url": "https://dev.api.emmalife.ch/products/NYrnfYEvk/quotes",
     "icon": "https://www.emmalife.ch/favicon.ico",
     "slug": "life-api-fix-digital-quote",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 412,
-    "timeWeek": 383,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "time": 443,
+    "timeDay": 833,
+    "timeWeek": 492,
+    "timeMonth": 447,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   },
   {
@@ -121,7 +121,7 @@
     "time": 689,
     "timeDay": 653,
     "timeWeek": 616,
-    "timeMonth": 689,
+    "timeMonth": 695,
     "timeYear": 689,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 677,
     "timeDay": 665,
     "timeWeek": 629,
-    "timeMonth": 677,
+    "timeMonth": 683,
     "timeYear": 677,
     "dailyMinutesDown": {}
   }
