@@ -1,7 +1,7 @@
 url: https://dev.api.emmalife.ch/products/NYrnfYEvk/quotes
-status: down
-code: 503
-responseTime: 328
-lastUpdated: 2023-03-10T23:21:24.786Z
+status: up
+code: 200
+responseTime: 406
+lastUpdated: 2023-03-10T23:29:21.686Z
 startTime: Mon Dec 12 2022 16:35:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
